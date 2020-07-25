@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "497043631055",
+    "firebase_url": "https://go-streamer.firebaseio.com",
+    "project_id": "go-streamer",
+    "storage_bucket": "go-streamer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497043631055:android:a21d7a419b5c21facd40ba",
+        "android_client_info": {
+          "package_name": "com.example.gostreamer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497043631055-ec0jkfth75shk467sefmnoda2fb3kok3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gostreamer",
+            "certificate_hash": "b9af5bb6be9fc3bbc1a02558daaf32408082b873"
+          }
+        },
+        {
+          "client_id": "497043631055-ai3c48iumlmn7vokl6r6nvf7djlmr7jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3yUTVQnBcAHlX6PevofkU-rp3KIG9JeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497043631055-ai3c48iumlmn7vokl6r6nvf7djlmr7jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
